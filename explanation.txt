@@ -1,0 +1,8 @@
+created a simple face recognition model using fine tuning of efficient NETV2B3
+EfficientNetV2B3のファインチューニングを使用して、簡単な顔認識モデルを作成しました。
+
+
+
+
+
+
